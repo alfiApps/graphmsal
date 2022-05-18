@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "\u0016\u0016\u0016@microsoft/microsoft-graph-client@3.0.0/lib/graph-client-msalBrowserAuthProvider.js",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": "alfiapps/graphmsal"
+ 
 }
